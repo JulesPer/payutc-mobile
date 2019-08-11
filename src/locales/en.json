@@ -9,8 +9,8 @@
 		"Home": {
 			"title": "Home",
 			"hi": "Hi",
-			"your_balance": "Hi %{name}, your solde :",
-			"no_balance": "Impossible to get your solde :(",
+			"your_balance": "Hi %{name}, your balance :",
+			"no_balance": "Impossible to get your balance :(",
 			"refill": "Refill",
 			"transfer": "Transfer",
 			"all_stats": "All your statistics...",
